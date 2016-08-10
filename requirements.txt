@@ -1,0 +1,2 @@
+Sphinx>=1.4.4
+alabaster>=0.7.8
